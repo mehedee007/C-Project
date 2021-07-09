@@ -1,5 +1,4 @@
 # C-Project
-C# Project which is created using XML and MVVM model.
 Application Name: CustomersOfRaniTech
 Built On	: Universal Windows Platform (UWP)
 Purpose		: To Store the Information of the Customers of Rani Tech Industry.
